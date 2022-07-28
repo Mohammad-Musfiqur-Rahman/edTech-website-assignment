@@ -1,3 +1,7 @@
 .color1 {
     background-color: #F4FAFD;
 }
+
+ul li {
+    list-style: none;
+}
